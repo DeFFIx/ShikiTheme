@@ -16,7 +16,7 @@ html[data-color-mode="light"] {
 
   --clr-main-primary: #4e9f3d;
   --clr-main-dark: #3b7a2f;
-  --clr-main-light: #64b950;
+  --clr-main-light: #8A2BE2;
 
   --link-primary: var(--clr-main-light);
   --link-hover: color-mix(in srgb, var(--clr-main-light) 60%, white);
